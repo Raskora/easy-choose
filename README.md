@@ -34,11 +34,22 @@ You can also keep them from duplicate elements:
 
 `[1, 4, 7, 5]`
 
+## Tests
+
+You can use ready-made test functions – just test and play!
+
+Here's how:
+
+`>>> from easy_choose import tests as te`
+
+`>>> te.testnumbers(number=5, num=3)`
+
+`[1, 3, 3, 1, 2]`
 
 <br>
 <br>
 
-#### Version: 1.0.8
+#### Version: 1.0.9
 
 #### Author: Raskora
 
